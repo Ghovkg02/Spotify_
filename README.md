@@ -3,6 +3,8 @@
 Download Spotify playlists to mp3 files from desktop.
 Uses YouTube as an audio source by looking for videos under the same name and downloading as mp3.
 
+Note : Works with desktop spotify links and playlists only.
+
 # Requirements 
 Python (tested with 3.10)
 
