@@ -4,12 +4,13 @@ Download Spotify playlists to mp3 files from desktop.
 Uses YouTube as an audio source by looking for videos under the same name and downloading as mp3.
 
 # Requirements 
-Python (tested with 3.10) 
+Python (tested with 3.10)
+
 ffmpeg (Download from http://ffmpeg.zeranoe.com/builds/)
 
 # Installation
-1. Clone/Download this repo 'git clone https://github.com/Ghovkg02/Spotify_.git'
-2. Install the required modules. 'pip install required.txt'
+1. Clone/Download this repo `git clone (https://github.com/Ghovkg02/Spotify_.git)`
+2. Install the required modules. `pip install required.txt`
 3. Go to [https://developer.spotify.com/my-applications](https://developer.spotify.com/my-applications) and create an app to get a client_id and client_secret key pair
 4. Put these keys in `settings.json`
 5. Put your [Spotify username](https://www.spotify.com/us/account/overview/) in `settings.json`
