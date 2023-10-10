@@ -20,7 +20,7 @@ ffmpeg (Download from http://ffmpeg.zeranoe.com/builds/)
 
 # Usage
 1. Get the URL of a Spotify playlist by clicking the three dots at the top to show then menu and click share.
-2. In this sub-menu, click "Copy Spotify URI"; this will copy the URI to your clipboard.
-3. Run spotify_album_downloader.py and insert your Spotify URI, then hit enter.
+2. In this sub-menu, click "Copy Spotify URL"; this will copy the URL to your clipboard.
+3. Run Spotify.py and insert your Spotify URL, then hit enter.
 4. Files will be saved to /music/ in the current working directory.
 
