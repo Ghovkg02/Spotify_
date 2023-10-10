@@ -1,0 +1,6 @@
+mutagen
+youtube_dl
+BeautifulSoup4
+spotipy
+youtubesearchpython
+pytube
