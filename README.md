@@ -16,9 +16,12 @@ ffmpeg (Download from http://ffmpeg.zeranoe.com/builds/)
 5. Put your [Spotify username](https://www.spotify.com/us/account/overview/) in `settings.json`
    Check in the edit profile section.
 6. Go to [http://ffmpeg.zeranoe.com/builds/](http://ffmpeg.zeranoe.com/builds/) and download ffmpeg.
-7. Extract the files from the zip and copy ffmpeg.exe, ffplay.exe and ffprobe.exe from the /bin folder to the location of Spotify.py
+7. Extract the files from the zip and look for ffmpeg.exe, ffplay.exe and ffprobe.exe from the folder,
+   you can search it too, and copy it to the location of Spotify.py
 
-# Usage
+# Steps to Use
+
+Go to the Spotify website
 1. Get the URL of a Spotify playlist by clicking the three dots at the top to show then menu and click share.
 2. In this sub-menu, click "Copy Spotify URL"; this will copy the URL to your clipboard.
 3. Run Spotify.py and insert your Spotify URL, then hit enter.
