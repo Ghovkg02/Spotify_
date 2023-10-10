@@ -14,8 +14,9 @@ ffmpeg (Download from http://ffmpeg.zeranoe.com/builds/)
 3. Go to [https://developer.spotify.com/my-applications](https://developer.spotify.com/my-applications) and create an app to get a client_id and client_secret key pair
 4. Put these keys in `settings.json`
 5. Put your [Spotify username](https://www.spotify.com/us/account/overview/) in `settings.json`
+   Check in the edit profile section.
 6. Go to [http://ffmpeg.zeranoe.com/builds/](http://ffmpeg.zeranoe.com/builds/) and download ffmpeg.
-7. Extract the files from the zip and copy ffmpeg.exe, ffplay.exe and ffprobe.exe from the /bin folder to the location of spotify_album_downloader.py
+7. Extract the files from the zip and copy ffmpeg.exe, ffplay.exe and ffprobe.exe from the /bin folder to the location of Spotify.py
 
 # Usage
 1. Get the URL of a Spotify playlist by clicking the three dots at the top to show then menu and click share.
